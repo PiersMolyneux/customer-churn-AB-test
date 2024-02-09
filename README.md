@@ -1,4 +1,4 @@
-# customer-churn-project
+# customer-churn-AB-test
 ## Project Overview
 This project aims to identify at-risk customers in an e-commerce context to implement targeted retention strategies effectively. By analyzing customer behavior, transaction history, and engagement metrics, we predict which customers are likely to churn. This enables proactive engagement to improve customer retention rates.
 We first compare various machine learning methods at predicting how likely a customer is to churn. We find out the best model is the random forest.
